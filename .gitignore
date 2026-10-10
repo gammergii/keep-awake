@@ -1,0 +1,9 @@
+# Generated packages and local test reports
+*.zip
+test-results*.txt
+*.pdb
+*.log
+
+# Editor files
+.vs/
+.vscode/
